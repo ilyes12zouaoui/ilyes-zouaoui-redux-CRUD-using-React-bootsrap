@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Bangers&display=swap");
+body {
+  font-family: "bangers";
+  overflow-y: scroll;
+}
+footer img {
+  width: 30px;
+}
+footer img:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
+.active-link {
+  color: red;
+}
